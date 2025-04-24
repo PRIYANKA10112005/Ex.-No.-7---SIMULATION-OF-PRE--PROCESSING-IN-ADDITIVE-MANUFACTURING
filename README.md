@@ -10,7 +10,7 @@
 ### Pre-processing encompasses the steps between design and printing. Process of 3D printing starts with designing in CAD. Then printer software slices 3D CAD file into layers. For each slice, the software converts the data into machine code that determines tool paths for the machine to follow. The various steps in pre-processing from design to printing are as follows:
 
 ### 1)	CAD File
-### 2)	Conversion to STL a. Orientation b. Support Structure c. Slicing d. Path Planning
+### 2)	Conversion to STL a. Orientation b. Support Structure c. Slicing d. Path Planning        
 
 ### 1. CAD File
 ### Every manufacturing process starts with the process of designing and as in any type of manufacturing, there are certain limitations to the materials and manufacturing processes that dictate how the product should be designed, 3D printing is no different. In 3d printing, characteristics of hardware, software, temperature, filament and many other factors play an important role in how a digital model translates into a printed object. Some of them are designed with a strong base, grain direction, overhung, wall thickness, round corners and tolerances.
